@@ -1,3 +1,0 @@
-#!/bin/bash
-chmod 701 6-multiple_permissions
-chmod u+x 6-multiple_permissions
